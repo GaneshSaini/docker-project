@@ -1,0 +1,14 @@
+Details of docker project
+
+1) Make a directory with the help of the command called MKDIR in my case i give the name of my directory my_wordpress you can give any name to your directory.
+2) After the i change the directory with help of cd and my directory name - cd my_wordpress/
+3) After this i create a docker compose file with help of vim editor.Below is the name of my file.
+   docker-compose.yml
+4) After creating  the file open it you have to write the code according to your demand what would you want to launch through docker.In my case i write the code  for wordpress launching.
+5) After writing the whole code save it and come again on the terminal.
+6) After coming on the terminal run this command docker-compose up-d .After running this command might be possible  you facing an error of that mapping should be array like that so make sure that error not should of intention if it resolve it.
+7) After solving the error  again run the same commands and open the browser in my case i have google chrome.
+8) run the local host with port no. After this you will get the  user inteface of wordpress page 
+10) After this you can login the details and the dashboard was open of the wordpress site, where you can select the themes and start building your website.
+11) Happy Learning.
+ 
